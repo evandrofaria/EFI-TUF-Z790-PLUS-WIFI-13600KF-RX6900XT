@@ -2,7 +2,7 @@ ASUS TUF GAMING Z790-PLUS WIFI DDR5 + i5 13600KF + RX 6900XT 16GB
 =======================
 
 ### Basic Information
-![About this mac](Screenshots/About-this-mac.png)
+![About this mac](Screenshots/about-this-mac.png)
 * **MacOS**: Sonoma (14.4.1)
 * **OpenCore**: 0.9.9
 * **Updated: 01 Apr 2024**
